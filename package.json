@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "type": "module",
   "dependencies": {
-    "mqtt": "^4.4.1"
+    "mqtt": "^4.3.7"
   }
 }
