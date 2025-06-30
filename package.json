@@ -1,0 +1,8 @@
+{
+  "name": "mqtt-http-gateway",
+  "version": "1.0.0",
+  "type": "module",
+  "dependencies": {
+    "mqtt": "^4.4.1"
+  }
+}
